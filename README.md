@@ -103,9 +103,9 @@ sudo apt install python3-venv
 ## Step 1 – Clone This Repository
 
 ```bash
-git clone https://github.com/MAK554267/Blackout-2.4.git
+git clone https://github.com/MAK554267/Bluetooth-MAP-SMS-Monitoring.git
 
-cd Blackout-2.4
+cd Bluetooth-MAP-SMS-Monitoring
 ```
 
 ---
